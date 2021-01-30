@@ -1,10 +1,10 @@
 //Anthony Tho Le
 
 /*
- *CSPB 1300 - ATM Final Project
+ ATM Machine
  */
 
-//Final project for CSPB 1300 for FA19 - build a simple ATM machine utilizing C++, that allows the user to perform variety of different transactions
+//Project for FA19 - build a simple ATM machine utilizing C++, that allows the user to perform variety of different transactions
 //Core functions must include deposit, transfer, and withdrawals - must also include various elements of enhancements to the program outside of these core functions
 //note to self: consider incorporating classes & headers to tidy-up the program
 
